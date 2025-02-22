@@ -27,7 +27,8 @@ html {
   max-width: 900px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  border-radius: 20px;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 .main__card-1 {
